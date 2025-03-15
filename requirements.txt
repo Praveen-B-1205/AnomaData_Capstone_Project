@@ -1,0 +1,27 @@
+Required Python Libraries for AnomaData Project
+
+Web Frameworks
+
+flask==2.2.3  # For building the API
+streamlit==1.10.0  # For creating a user-friendly UI
+
+Machine Learning
+
+scikit-learn==1.2.2  # Contains Isolation Forest for anomaly detection
+joblib==1.2.0  # For saving and loading trained models
+
+Data Processing
+
+pandas==1.5.3  # For handling and processing datasets
+numpy==1.24.2  # For numerical computations
+openpyxl==3.1.2  # To read/write Excel files
+
+Data Visualization
+
+matplotlib==3.7.1  # For plotting graphs
+seaborn==0.12.2  # For statistical data visualization
+
+API & JSON Handling
+
+requests==2.28.2  # To test and integrate APIs
+json==2.0.9  # For working with JSON data

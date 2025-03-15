@@ -1,0 +1,6 @@
+python src/data_loader.py     # Load dataset
+python src/eda.py             # Perform EDA
+python src/preprocess.py      # Preprocess data
+python src/model.py           # Train and save model
+python api/app.py             # Start Flask API
+streamlit run ui/ui.py        # Start Streamlit UI
