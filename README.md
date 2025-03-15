@@ -1,4 +1,5 @@
 AnomaData: Automated Anomaly Detection for Predictive Maintenance
+
 👤 Developed by: Praveen B
 
 📌 Project Overview
