@@ -10,6 +10,7 @@ Data Science: Data preprocessing, feature engineering, EDA
 Model Deployment: Flask API for real-time anomaly detection
 Web Application: Streamlit UI for interactive visualization
 Data Handling: Pandas, NumPy, Matplotlib, Seaborn
+
 🛠️ Tools Used
 ✅ Python 🐍
 ✅ Flask 🌐
