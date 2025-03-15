@@ -26,7 +26,9 @@ Visualizations to understand data distributions and anomalies
 
 
 Exploratory Data Analysis (EDA) Results
+
 1️⃣ Anomaly Distribution: The dataset is imbalanced, with fewer anomalies (y=1). This might require resampling techniques.
+
 2️⃣ Feature Correlation: Some features show strong correlation with anomalies, helping in feature selection.
 
 
