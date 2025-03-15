@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/ff4260f8-5262-45f1-8b0d-4afc2995e74a)![image](https://github.com/user-attachments/assets/6ecbc48f-7cca-41b0-9a57-4ad1132d6655)![image](https://github.com/user-attachments/assets/e0ae2100-43c2-4bc3-a973-a5e7062b7ebf)AnomaData: Automated Anomaly Detection for Predictive Maintenance
-
 👤 Developed by: Praveen B
 
 📌 Project Overview
@@ -23,6 +21,14 @@ Data Handling: Pandas, NumPy, Matplotlib, Seaborn
 
 Visualizations to understand data distributions and anomalies
 ![image](https://github.com/user-attachments/assets/a9799dd9-f7c0-429c-a5e9-a09989c03429)
+
+![image](https://github.com/user-attachments/assets/b8afc484-f642-47f8-ac7a-1a1f0583ec09)
+
+
+Exploratory Data Analysis (EDA) Results
+1️⃣ Anomaly Distribution: The dataset is imbalanced, with fewer anomalies (y=1). This might require resampling techniques.
+2️⃣ Feature Correlation: Some features show strong correlation with anomalies, helping in feature selection.
+
 
 
 
