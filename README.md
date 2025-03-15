@@ -34,9 +34,9 @@ Data Handling: Pandas, NumPy, Matplotlib, Seaborn
 ✅ Git & GitHub 🛠️
 
 Visualizations to understand data distributions and anomalies
-![image](https://github.com/user-attachments/assets/a9799dd9-f7c0-429c-a5e9-a09989c03429)
+![image](https://github.com/user-attachments/assets/f79dd63c-7b0e-47ad-9419-04d29a4e1eb2)
 
-![image](https://github.com/user-attachments/assets/b8afc484-f642-47f8-ac7a-1a1f0583ec09)
+![image](https://github.com/user-attachments/assets/361e946e-d508-4a4c-bd3e-feef0e8c7d53)
 
 
 Exploratory Data Analysis (EDA) Results
