@@ -78,9 +78,9 @@ jupyter notebook AnomaData.ipynb
 
 ## Model Performance📈
 
-•	Accuracy: 94.97%
-•	Anomaly Recall: 48% (Imbalanced dataset challenge)
-•	Further Improvements Needed: Hyperparameter tuning, Deep Learning models
+•	Accuracy: 94.97%  
+•	Anomaly Recall: 48% (Imbalanced dataset challenge)  
+•	Further Improvements Needed: Hyperparameter tuning, Deep Learning models  
 
 ## Future Enhancements
 - Integrate real-time streaming data.
