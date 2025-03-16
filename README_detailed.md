@@ -71,6 +71,51 @@ jupyter notebook AnomaData.ipynb
 - Improve model accuracy using deep learning techniques.
 - Deploy as a web application.
 
+
+🛠️ Skills & Technologies Used
+
+Machine Learning: Isolation Forest for anomaly detection
+
+Data Science: Data preprocessing, feature engineering, EDA
+
+Model Deployment: Flask API for real-time anomaly detection
+
+Web Application: Streamlit UI for interactive visualization
+
+Data Handling: Pandas, NumPy, Matplotlib, Seaborn
+
+🛠️ Tools Used
+
+✅ Python 🐍
+
+✅ Flask 🌐
+
+✅ Streamlit 📊
+
+✅ Scikit-learn 🤖
+
+✅ Pandas & NumPy 📊
+
+✅ Matplotlib & Seaborn 📉
+
+✅ Git & GitHub 🛠️
+
+Visualizations to understand data distributions and anomalies
+
+![image](https://github.com/user-attachments/assets/a9a814e4-0371-4271-a8b0-7ce841308925)
+
+
+![image](https://github.com/user-attachments/assets/2bd703fd-3dd6-45ce-a66e-e224eb93b4ce)
+
+
+Exploratory Data Analysis (EDA) Results
+
+1️⃣ Anomaly Distribution: The dataset is imbalanced, with fewer anomalies (y=1). This might require resampling techniques.
+
+2️⃣ Feature Correlation: Some features show strong correlation with anomalies, helping in feature selection.
+
+
+
 ## Contributor
 - Praveen B
 
