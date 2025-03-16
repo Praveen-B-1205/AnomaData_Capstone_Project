@@ -67,9 +67,18 @@ jupyter notebook AnomaData.ipynb
 - CSV file with detected anomalies.
 - Visual reports highlighting anomalies.
 
-## References
-- Research papers on anomaly detection.
-- Documentation for machine learning libraries (e.g., scikit-learn, TensorFlow, PyTorch).
+##📊 Dataset Information
+•	Rows: 18,398
+•	Columns: 62
+•	Features: x1 to x60 (sensor readings), time (timestamp)
+•	Target Variable (y): 
+   0 = Normal Operation
+   1 = Anomaly (Failure Detected)
+
+##📈 Model Performance
+•	Accuracy: 94.97%
+•	Anomaly Recall: 48% (Imbalanced dataset challenge)
+•	Further Improvements Needed: Hyperparameter tuning, Deep Learning models
 
 ## Future Enhancements
 - Integrate real-time streaming data.
