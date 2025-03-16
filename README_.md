@@ -71,9 +71,8 @@ jupyter notebook AnomaData.ipynb
 - Improve model accuracy using deep learning techniques.
 - Deploy as a web application.
 
-## Contributors
-- **Your Name**  
-- **Team Members (if any)**
+## Contributor
+- Praveen B
 
-For queries, contact: [Your Email]
+For queries, contact: praveen.vjrocks@gmail.com
 
