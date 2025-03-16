@@ -69,12 +69,12 @@ jupyter notebook AnomaData.ipynb
 
 ## Dataset Information📊
 
-•	Rows: 18,398
-•	Columns: 62
-•	Features: x1 to x60 (sensor readings), time (timestamp)
-•	Target Variable (y): 
-   0 = Normal Operation
-   1 = Anomaly (Failure Detected)
+•	Rows: 18,398  
+•	Columns: 62  
+•	Features: x1 to x60 (sensor readings), time (timestamp)  
+•	Target Variable (y):   
+   0 = Normal Operation  
+   1 = Anomaly (Failure Detected)  
 
 ## Model Performance📈
 
