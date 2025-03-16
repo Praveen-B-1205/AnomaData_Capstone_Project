@@ -67,7 +67,8 @@ jupyter notebook AnomaData.ipynb
 - CSV file with detected anomalies.
 - Visual reports highlighting anomalies.
 
-##📊 Dataset Information
+## Dataset Information📊
+
 •	Rows: 18,398
 •	Columns: 62
 •	Features: x1 to x60 (sensor readings), time (timestamp)
@@ -75,7 +76,8 @@ jupyter notebook AnomaData.ipynb
    0 = Normal Operation
    1 = Anomaly (Failure Detected)
 
-##📈 Model Performance
+## Model Performance📈
+
 •	Accuracy: 94.97%
 •	Anomaly Recall: 48% (Imbalanced dataset challenge)
 •	Further Improvements Needed: Hyperparameter tuning, Deep Learning models
