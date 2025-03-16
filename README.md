@@ -114,7 +114,7 @@ Data Handling: Pandas, NumPy, Matplotlib, Seaborn
 
 ✅ Matplotlib & Seaborn 📉
 
-✅ Git & GitHub 🛠️
+✅ GitHub 🛠️
 
 Visualizations to understand data distributions and anomalies
 
